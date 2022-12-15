@@ -2,7 +2,7 @@
 //  main.cpp
 //  Inheritence
 //
-//  Created by Pranav Saravanan on 12/14/22.
+//  Created by Pranav Saravanan.
 //
 
 #include <iostream>
